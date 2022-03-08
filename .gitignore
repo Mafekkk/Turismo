@@ -7,7 +7,7 @@
         "marker-color": "#37ff00",
         "marker-size": "small",
         "marker-symbol": "circle",
-        "Nombre ": "S/E El circo",
+        "Nombre": "Subestación El Circo",
         "Nivel": "230kV",
         "Dueño": "ENEL"
       },
@@ -16,6 +16,385 @@
         "coordinates": [
           -74.0625,
           4.58691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#37ff00",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Tunal",
+        "Nivel": "230kV",
+        "Dueño": "ENEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14003,
+          4.57389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#37ff00",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación San Mateo",
+        "Nivel": "230kV",
+        "Dueño": "--",
+        "Configuración": "Barra Sencilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.20309,
+          4.57757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#37ff00",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación La Mesa",
+        "Nivel": "230kV",
+        "Dueño": "ISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.48046,
+          4.62752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f27dee",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Nueva Esperanza",
+        "Nivel": "500kV",
+        "Dueño": "EPM-CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.28397,
+          4.57255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#37ff00",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación La Guaca",
+        "Nivel": "230kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.45938,
+          4.58984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#37ff00",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Paraiso",
+        "Nivel": "230kV",
+        "Dueño": "EMGESA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.40238,
+          4.57224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación AranJuez",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03284,
+          4.73665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Tibabuyes",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.10462,
+          4.73043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Portugal",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12506,
+          4.73621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Bolivia",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11884,
+          4.71841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Calle 1ra",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09005,
+          4.59215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Cerro Suba",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0671,
+          4.75536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Florida",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11354,
+          4.69142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Carrera Quinta",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06648,
+          4.616648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Autopista",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05212,
+          4.7144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Carrera Quinta",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06648,
+          4.616648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Morato",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07748,
+          4.69302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0011ff",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación San José",
+        "Nivel": "57.5kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08716,
+          4.60662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación San Facon",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0803,
+          4.61258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación Fontibón",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13613,
+          4.67228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "Nombre": "Subestación La Capilla",
+        "Nivel": "115kV",
+        "Dueño": "CODENSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08125,
+          4.55845
         ]
       }
     }
